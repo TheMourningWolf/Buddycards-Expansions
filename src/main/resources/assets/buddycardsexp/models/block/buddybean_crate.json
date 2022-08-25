@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
     "side": "buddycardsexp:block/buddybean_crate_side",
-    "bottom": "farmersdelight:block/crate_bottom",
+    "bottom": "buddycardsexp:block/buddybean_crate_bottom",
     "top": "buddycardsexp:block/buddybean_crate_top"
   }
 }
